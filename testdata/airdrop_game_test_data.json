@@ -1,0 +1,31 @@
+{
+    "root": "14b47be0716eebb3b9e16fb2d06dc3376dd2534705d9a9d38f6fbcc6f4f1c7d2",
+    "addresses" : [
+        {
+            "account": "wasm1k9hwzxs889jpvd7env8z49gad3a3633vg350tq",
+            "amount": "1",
+            "proofs": [
+                "c13e121362ded6e28c8557ff4b9278620efda8f8526ff109ff87527015e761fe",
+                "b3063d79e7b3822d32f0f62d43586af9ef05488d1075c6be1e53b630799d4421"
+            ]
+        },
+        {
+            "account": "wasm1uy9ucvgerneekxpnfwyfnpxvlsx5dzdpf0mzjd",
+            "amount": "3",
+            "proofs": [
+                "9a19aef1e9b9b724fb84117e34a9dbd7ee7f4072d9be19979b5eac5c027e56a3",
+                "b3063d79e7b3822d32f0f62d43586af9ef05488d1075c6be1e53b630799d4421"
+              ]
+        },
+        {
+            "account": "wasm1a4x6au55s0fusctyj2ulrxvfpmjcxa92k7ze2v",
+            "amount": "10",
+            "proofs": [
+                "3cab0d3368408b8cc46d6cde6e9912de1acdd069ea9a1cbe696bdc403689ab8e",
+                "38578854651677c7ae5433e4057b05dc0e31bdbe6a9decae81ddf6517be3a77c",
+                "2fe825a45757523a6204663feff54968bcdfbb4b32f4f13f1d6a470ac273ab38"
+              ]
+        }
+    ]
+}
+  

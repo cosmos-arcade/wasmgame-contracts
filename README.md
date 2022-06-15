@@ -31,7 +31,7 @@ pub struct InstantiateMsg {
 }
 ```
 
-#### ExecuteMsg
+### ExecuteMsg
 
 ```rust
 pub enum ExecuteMsg {
@@ -84,7 +84,7 @@ pub enum ExecuteMsg {
 
 - `WithdrawPrize`: allows the contract owner to send the unclaimed game prize to an address.
 
-#### QueryMsg
+### QueryMsg
 
 ``` rust
 pub enum QueryMsg {
@@ -105,6 +105,22 @@ pub enum QueryMsg {
 - `MerkleRoots` returns the registered Merkle roots.
 
 - `GameAmounts` returns the quantities associated to the airdrop, as for example, the amount of tickets payed, the amount of prize claimed, ecc.
+
+## Schema
+
+To generate schema inside `./schema` run:
+
+``` shell
+cargo schema
+```
+
+## Doc
+
+To generate the documentation of the smart contract run:
+
+``` shell
+cargo doc
+```
 
 ## Tests 
     
